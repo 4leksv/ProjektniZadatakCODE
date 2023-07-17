@@ -1,7 +1,5 @@
 # ProjektniZadatakCODE
 
-This repository contains the code for project, developed by Comtrade.
-
 Technologies:
 - Front-end: HTML, CSS, JavaScript, React.js
 - Back-end: Node.js, Express.js
