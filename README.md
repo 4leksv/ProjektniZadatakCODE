@@ -12,5 +12,5 @@ Features:
 - Order placement and processing
 - User profile management
 
-Authors:
+Author:
 - [Aleksa Vukosavljevic]
