@@ -1,4 +1,4 @@
-# ProjektniZadatakCODE
+# QAProjectCODEbyComtrade
 
 Technologies:
 - Front-end: HTML, CSS, JavaScript, React.js
