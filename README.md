@@ -1,4 +1,4 @@
-# QAProjectCODEbyComtrade
+# QA Project, CODEbyComtrade
 
 Technologies:
 - Front-end: HTML, CSS, Java
