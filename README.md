@@ -1,9 +1,7 @@
 # QAProjectCODEbyComtrade
 
 Technologies:
-- Front-end: HTML, CSS, JavaScript, React.js
-- Back-end: Node.js, Express.js
-- Database: MongoDB
+- Front-end: HTML, CSS, Java
 
 Features:
 - User registration and login functionality
